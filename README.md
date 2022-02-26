@@ -7,7 +7,7 @@ Moviezz is a React App for searching the The Movie Database, where you can Add ,
 ## FEATURES
 
 
-![Moviezz Demo](./public/moviezz.gif)
+![Moviezz Demo](./public/movieezz.gif)
 
 
 
