@@ -2,12 +2,12 @@
 
 Moviezz is a React App for searching the The Movie Database, where you can Add , Delete and Search Movies saved in localStorage
 
-- [Demo Website Moviezz](https://moviezz.netlify.app/)
+- [Demo Website Moviezz](https://movieezz.netlify.app/)
 
 ## FEATURES
 
 
-![Moviezz Demo](./public/movieezz.gif)
+![Moviezz Demo](./public/moviezz.gif)
 
 
 
