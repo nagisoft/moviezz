@@ -18,6 +18,13 @@ Moviezz is a React App for searching the The Movie Database, where you can Add ,
 - TMDB API
 - SCSS
 
+
+## Notes
+
+- API key is public because it's just a Demo Website
+
+
+
 ## Author
 
 **Bensaad Soukaina**
